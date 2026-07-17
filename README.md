@@ -7,12 +7,13 @@ A Todo Application built with React, Vite and Tailwind CSS.
 - Add Tasks
 - Edit Tasks
 - Delete Tasks
-- Mark Tasks Complete
+- Mark Tasks as Complete
 - Show Finished Filter
 - Dark Mode
 - Local Storage Persistence
 - Installable PWA (Progressive Web App)
 - Automatic Updates
+- Responsive Design
 
 
 ## Tech Stack
