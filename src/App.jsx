@@ -55,7 +55,7 @@ function App() {
     <>
       <div className=" bg-white dark:bg-gray-900 min-h-screen">
         <Navbar />
-        <div className="container bg-violet-300 dark:bg-violet-950 dark:text-white  w-1/2 rounded-md p-4 m-8 mx-auto">
+        <div className="container bg-violet-300 dark:bg-violet-950 dark:text-white  sm:w-1/2 rounded-md sm:p-4 p-8 m-8  mx-auto">
           <div className="todo text-xl font-bold text-center p-4">
             TO DO List
           </div>
