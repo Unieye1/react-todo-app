@@ -26,7 +26,7 @@ A Todo Application built with React, Vite and Tailwind CSS.
 - Vite PWA Plugin
 
 ## Live Demo
-https://react-todo-5tv95aw5q-unieye2.vercel.app
+https://react-todo-app-unieye2.vercel.app/
 
 
 
